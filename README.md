@@ -3,8 +3,7 @@
   <br>
   </div>
   <div id="badges" align="center">
-  <!--img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/-->
-  <a href="https://infosec.exchange/.well-known/webfinger?resource=acct:imubergeek@infosec.exchange"/></a>
+<a href="https://infosec.exchange/@imubergeek"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109690307951032082?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge"></a><br/>
   <a href="https://twitter.com/imubergeek"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 <div align="center">
